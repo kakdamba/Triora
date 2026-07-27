@@ -1,6 +1,6 @@
 <div align="center">
   
-![Triora Logo](assets/icon.png)
+![Triora Logo](icon.png)
 
   <h1>Triora (V.5 BETA)</h1>
 </div>
@@ -17,10 +17,10 @@
 ## Screenshots
 <div align="center">
 
-![Dashboard](assets/screen1.png)
-![Protection](assets/screen2.png)
-![Apps](assets/screen3.png)
-![Settings](assets/screen4.png)
+![Dashboard](screen1.png)
+![Protection](screen2.png)
+![Apps](screen3.png)
+![Settings](screen4.png)
 
 </div>
 
