@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" width="128" height="128" alt="Triora Logo">
+  <img src="./assets/icon.png" width="128" height="128" alt="Triora Logo">
   <h1>Triora (V.5 BETA)</h1>
 </div>
 
@@ -14,8 +14,8 @@
 
 ## Screenshots
 <div align="center">
-  <!-- To add screenshots, drop your images into the /assets folder and add them here -->
-  <!-- <img src="assets/screenshot1.png" width="250"> <img src="assets/screenshot2.png" width="250"> -->
+  <img src="./assets/screenshot1.png" width="250" alt="Screenshot 1"> 
+  <img src="./assets/screenshot2.png" width="250" alt="Screenshot 2">
 </div>
 
 ## Requirements
