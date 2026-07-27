@@ -1,4 +1,6 @@
- <h1>Triora (V.5 BETA)</h1>
+<div align="center">
+  <img src="./assets/icon.png" width="128" height="128" alt="Triora Logo">
+  <h1>Triora (V.5 BETA)</h1>
 </div>
 
 **Triora** is a comprehensive Android privacy suite designed to give users absolute control over their device's security. It features a built-in local VPN firewall to silently monitor and block hidden background trackers in real-time. By automatically intercepting malicious domains and analytics services, Triora prevents apps from harvesting your personal data—letting you use your phone with complete peace of mind.
@@ -12,8 +14,10 @@
 
 ## Screenshots
 <div align="center">
-  <img src="./assets/screenshot1.png" width="250" alt="Screenshot 1"> 
-  <img src="./assets/screenshot2.png" width="250" alt="Screenshot 2">
+  <img src="./assets/screen1.png" width="220" alt="Dashboard">
+  <img src="./assets/screen2.png" width="220" alt="Protection">
+  <img src="./assets/screen3.png" width="220" alt="Apps">
+  <img src="./assets/screen4.png" width="220" alt="Settings">
 </div>
 
 ## Requirements
