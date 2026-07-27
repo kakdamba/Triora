@@ -1,3 +1,8 @@
+<img width="1260" height="2619" alt="Screenshot_2026_0727_192020" src="https://github.com/user-attachments/assets/172ca44f-e002-438f-ae21-1ec136b0c1e7" />
+<img width="1260" height="2652" alt="Screenshot_2026_0727_192000" src="https://github.com/user-attachments/assets/958f79e7-b9f2-493c-a2f3-3e53a25be30e" />
+<img width="1260" height="2598" alt="Screenshot_2026_0727_191948" src="https://github.com/user-attachments/assets/731f9e19-f00e-429c-9bfe-2f068cb16f40" />
+<img width="6047" height="6047" alt="icon" src="https://github.com/user-attachments/assets/7f4660da-01e5-4356-9de1-92505288e4d5" />
+<img width="1260" height="2630" alt="1000127160" src="https://github.com/user-attachments/assets/0234e30e-14d3-4f73-808c-465928af5e26" />
 <div align="center">
   <img src="./assets/icon.png" width="128" height="128" alt="Triora Logo">
   <h1>Triora (V.5 BETA)</h1>
