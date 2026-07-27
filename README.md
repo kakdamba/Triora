@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/icon.png" width="128" height="128" alt="Triora Logo">
+  
+![Triora Logo](assets/icon.png)
+
   <h1>Triora (V.5 BETA)</h1>
 </div>
 
@@ -14,10 +16,12 @@
 
 ## Screenshots
 <div align="center">
-  <img src="./assets/screen1.png" width="220" alt="Dashboard">
-  <img src="./assets/screen2.png" width="220" alt="Protection">
-  <img src="./assets/screen3.png" width="220" alt="Apps">
-  <img src="./assets/screen4.png" width="220" alt="Settings">
+
+![Dashboard](assets/screen1.png)
+![Protection](assets/screen2.png)
+![Apps](assets/screen3.png)
+![Settings](assets/screen4.png)
+
 </div>
 
 ## Requirements
