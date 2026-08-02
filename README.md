@@ -1,39 +1,51 @@
 <div align="center">
+  <img src="logo.png" alt="Triora Logo" width="200" height="200">
   
-![Triora Logo](icon.png)
-
-  <h1>Triora (V.5 BETA)</h1>
+  # Triora: Android Firewall & VPN
+  
+  **We quietly protect your digital life. 🍀**
+  <br>
+  *Built for People. We build for users—not advertisers.*
 </div>
 
-**Triora** is a comprehensive Android privacy suite designed to give users absolute control over their device's security. It features a built-in local VPN firewall to silently monitor and block hidden background trackers in real-time. By automatically intercepting malicious domains and analytics services, Triora prevents apps from harvesting your personal data—letting you use your phone with complete peace of mind.
+---
 
-## Key Features
+## 🌊 Overview
 
-- **Local VPN Firewall:** Intercepts and blocks tracking attempts at the network level without routing your traffic to external servers.
-- **Tracker Protection:** Automatically blocks known malicious domains, analytics services, and telemetry trackers.
-- **Privacy Dashboard:** Monitor which apps are attempting to track you in real-time.
-- **App Specific Controls:** Customize data access (Wi-Fi/Mobile Data) for individual apps.
+Triora is a next-generation Android Firewall and Privacy VPN designed to block ads, trackers, malware, and phishing attempts across your entire device. Triora reroutes your DNS traffic through a highly optimized, local filtering engine that acts instantly—preventing data harvesting before it even leaves your device.
 
-## Screenshots
+## 🛡️ Our Principles
+
+- **Private by Design:** Your privacy comes first.
+- **Simple by Choice:** Privacy shouldn't be complicated.
+- **Transparent by Default:** See what we're protecting and why.
+- **Built for People:** We build for users—not advertisers.
+
+## ✨ Features
+
+- **Local Filtering Engine:** Powerful DNS-level blocking for Ads, Trackers, and Malware.
+- **Dynamic Theming:** Seamlessly swap between the gorgeous **Deep Ocean** (Aqua) and **Forest Night** (Green) UI aesthetics.
+- **Real-Time Analytics:** Beautiful dashboard with live odometer stats showing exactly how many trackers were blocked today.
+- **In-Depth App Insights:** See exactly which apps are leaking data, including tracker names, risk levels, and blocking frequency.
+- **Custom Protection Lists:** Add custom domain blocklists (OISD, AdAway, 1Hosts, etc.) to tailor your security.
+
+## 🎨 Design Philosophy
+
+Triora features a strict semantic design system utilizing vibrant neon accents against deep charcoal and ocean backgrounds. 
+- **Aqua (Primary):** Interactive UI elements
+- **Green (Protected):** Safety and active shields
+- **Amber (Warning):** Attention-required states
+- **Red (Danger):** Disconnected or blocked elements
+
+## 🚀 Getting Started
+
+1. Clone this repository.
+2. Open the project in **Android Studio**.
+3. Build and run the `app` module on an emulator or physical device.
+4. Enjoy a cleaner, safer digital life!
+
+## 📱 Application Interface
+
 <div align="center">
-
-![Dashboard](screen1.png)
-![Protection](screen2.png)
-![Apps](screen3.png)
-![Settings](screen4.png)
-
+  <img src="panorama_screenshot.jpg" alt="Triora App UI Panorama">
 </div>
-
-## Requirements
-- Android 10 (API level 29) or higher
-- Android Studio to build the project
-
-## Build Instructions
-1. Clone or download this repository.
-2. Open the project folder in Android Studio.
-3. Sync Gradle.
-4. Hit **Run** to build and install the APK on your device or emulator.
-
-## Support Development
-If you like this project, please consider subscribing to our YouTube channel for updates, tutorials, and behind-the-scenes development:
-[Subscribe on YouTube (AlpeshMac)](https://www.youtube.com/@AlpeshMac)
